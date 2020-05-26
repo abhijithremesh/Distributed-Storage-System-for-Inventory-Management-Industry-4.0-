@@ -47,7 +47,7 @@
 
 # Data Communication flow
 
-![alt text](hhttps://github.com/abhijithremesh/Distributed-Storage-System-for-Inventory-Management-Industry-4.0-/blob/master/images/9.JPG)
+![alt text](https://github.com/abhijithremesh/Distributed-Storage-System-for-Inventory-Management-Industry-4.0-/blob/master/images/9.JPG)
 
 # Use case diagrams
 
